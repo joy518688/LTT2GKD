@@ -1,0 +1,10 @@
+[
+  {"popup_rules":[{"id":"新版本","action":"取消"},{"id":"dialog_full_image","action":"dialog_full_image_close"},{"id":"appver_update_cancel","action":"appver_update_cancel"},{"id":"是否更新","action":"取消"},{"id":"你的鼓励","action":"取消"}]},
+  {"popup_rules":[{"id":"iv_close","action":"iv_close"}],"click_way":1},
+  {"popup_rules":[{"id":"新版本","action":"稍后"}]}
+  {"popup_rules":[{"id":"跳过","action":"跳过"},{"id":"弹窗","action":"关闭按钮"},{"id":"发现新版本","action":"取消"}]}
+  {"popup_rules":[{"id":"iv_suspend","action":"iv_page_suspend_close"},{"id":"发现新版本","action":"GLOBAL_ACTION_BACK"},{"id":"一键领取","action":"一键领取"},{"id":"马上升级","action":"GLOBAL_ACTION_BACK"},{"id":"ibtn_zc_product_popup_close","action":"GLOBAL_ACTION_BACK"}]}
+  {"popup_rules":[{"id":"iv_notification_tip_icon","action":"cv_cancel_notification_tip"},{"id":"cl_top","action":"bt_close"},{"id":"立即获取","action":"GLOBAL_ACTION_BACK"},{"id":"全部设备","action":"全部设备"},{"id":"im_close","action":"im_close"},{"id":"btn_cancel","action":"btn_cancel"},{"id":"tg_bitmap_dialog_cancel_button","action":"tg_bitmap_dialog_cancel_button"},{"id":"暂不提醒","action":"暂不提醒"},{"id":"va_dialog_cancel","action":"va_dialog_cancel"}]}
+  {"popup_rules":[{"id":"登录体验更多精彩","action":"GLOBAL_ACTION_BACK"},{"id":"登录参与互动","action":"GLOBAL_ACTION_BACK"},{"id":"欢迎加入IT之家","action":"GLOBAL_ACTION_BACK"},{"id":"忽略此版本","action":"忽略此版本"}]}
+  {"popup_rules":[{"id":"立即升级","action":"以后再说"},{"id":"评个分","action":"GLOBAL_ACTION_BACK"}]}
+]
